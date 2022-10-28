@@ -1,0 +1,12 @@
+.services-sctns {
+    margin-top: 108px;
+}
+.services-sctn1 {
+    display: flex;
+    gap: 46px;
+    margin-bottom: 90px;
+}
+.services-sctn2 {
+    display: flex;
+    gap: 76px;
+}
